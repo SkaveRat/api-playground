@@ -1,0 +1,17 @@
+{
+  "name": "sipgate",
+  "description": "Sipgate REST API lib",
+  "version": "0.0.0",
+  "homepage": "http://sipgate.de/api/rest",
+  "repository": "https://github.com/sipgate/api-playground/",
+  "author": "Kai de Haan <dehaan@sipgate.de> http://sipgate.de",
+  "directories": {
+    "lib": "."
+  },
+  "dependencies": {
+      "xml2js": "*"
+  },
+  "engines": {
+    "node": "*"
+  }
+}
